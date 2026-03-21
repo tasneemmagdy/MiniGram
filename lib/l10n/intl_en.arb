@@ -1,0 +1,138 @@
+{
+  "home": "Home",
+  "chat": "Chat",
+  "addPost": "Add Post",
+  "likes": "Likes",
+  "profile": "Profile",
+  "notifications": "Notifications",
+  "search": "Search",
+
+
+  
+  "noChats": "No chats yet",
+  "startChatting": "Tap to start chatting",
+  "now": "now",
+  "minutesLetter": "m",
+  "hoursLetter": "h",
+  "daysLetter": "d",
+  "defaultUserName": "MiniGram User",
+  
+  "copy": "Copy",
+  "reply": "Reply",
+  "delete": "Delete",
+  "messageCopied": "Message copied",
+  "activeNow": "Active now",
+  "replyingTo": "Replying to",
+  "typeMessage": "Message...",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "noMessages": "No messages yet\nSay hi! 👋",
+
+"editPost": "Edit Post",
+  "update": "Update",
+  "editPostHint": "Edit your post...",
+  "postUpdatedSuccess": "Post updated successfully",
+
+  "editProfile": "Edit Profile",
+  "dark": "Dark",
+  "name": "Name",
+  "email": "Email",
+  "bio": "Bio",
+  "phone": "Phone",
+  "updateProfile": "Update Profile",
+  "logout": "Logout",
+  "pleaseEnter": "Please enter",
+
+  "editPost": "Edit Post",
+  "deletePost": "Delete Post",
+  "reportPost": "Report Post",
+  "copyText": "Copy Text",
+  "postReported": "Post reported",
+  "postCopied": "Post copied to clipboard",
+  "likes": "likes",
+  "viewComments": "View comments",
+  "writeComment": "Write your comment...",
+  "user": "User",
+  "unknownDate": "Unknown date",
+  "noPostsAvailable": "No posts available 📝",
+
+
+  "likedPosts": "Liked Posts",
+  "noLikedPosts": "You have not liked any posts yet.",
+
+  "loginHeader": "LOGIN",
+  "loginSubHeader": "Welcome back!",
+  "emailAddress": "email address",
+  "emailHint": "example@domain.com",
+  "emailValidation": "enter your email",
+  "password": "password",
+  "passwordHint": "************",
+  "passwordValidation": "enter your password",
+  "loginButton": "LOGIN",
+  "loginWithGoogle": "Login With Google",
+  "noAccount": "Don't have an account? ",
+  "registerNow": "Register Now",
+  "googleError": "An error occurred while signing in with Google",
+  "loginError": "Your data is incorrect or the account does not exist",
+
+  "addPost": "Add Post",
+  "post": "Post",
+  "whatIsOnYourMind": "What is in your mind {name}...",
+  "@whatIsOnYourMind": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "addPhoto": "Add Photo",
+
+  "noInternet": "No internet connection",
+  "checkConnection": "Check your connection and try again",
+  "tryAgain": "try again!",
+
+  "notifications": "Notifications",
+  "markAllRead": "Mark all read",
+  "noNotifications": "No notifications yet",
+  "justNow": "Just now",
+  "minutesAgo": "{count}m ago",
+  "hoursAgo": "{count}h ago",
+  "daysAgo": "{count}d ago",
+
+  "failedToLoadUser": "Failed to load user data: {error}",
+  "@failedToLoadUser": {
+    "placeholders": {
+      "error": { "type": "String" }
+    }
+  },
+  "retry": "Retry",
+  "unknownUser": "Unknown",
+  "defaultBio": "Write your bio...",
+  "posts": "Posts",
+  "addPhotos": "Add photos",
+  "myPosts": "My Posts",
+  "noPostsYet": "You have not posted anything yet.",
+
+  
+  "registerTitle": "REGISTER",
+  "registerSubtitle": "register now to communicate with friends ",
+  "userName": "User Name",
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "phoneNumber": "Phone Number",
+  "registerButton": "Register",
+  "nameValidation": "enter your name",
+  "emailValidation": "enter your email",
+  "passwordValidation": "enter your password",
+  "phoneValidation": "enter your phone number",
+
+  "searchHint": "Search users or posts...",
+  "noPostsExplore": "No posts to explore yet",
+  "noResultsFound": "No results found",
+  "users": "Users",
+  "posts": "Posts",
+  "unknownUser": "Unknown",
+  "miniGramUser": "MiniGram User"
+
+
+}
